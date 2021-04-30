@@ -29,7 +29,7 @@
     "function-max-lines": ["warn", 50],
     "imports-on-top": "warn",
 
-    "mark-callable-contracts": "warn",
+    "mark-callable-contracts": "off",
 
     "max-line-length": ["error", 120],
     "max-states-count": ["warn", 15],
